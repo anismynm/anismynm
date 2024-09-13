@@ -10,8 +10,12 @@
 
 <!--백준 타이틀-->
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ddoe0318" alt="Solved.ac프로필" />&nbsp
-  <img src="http://mazandi.herokuapp.com/api?handle=ddoe0318&theme=dark" />&nbsp
+  <a href="https://solved.ac/profile/ddoe0318">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ddoe0318" alt="Solved.ac프로필" />&nbsp
+  </a>
+  <a href="https://solved.ac/profile/ddoe0318">
+    <img src="http://mazandi.herokuapp.com/api?handle=ddoe0318&theme=dark" />&nbsp
+  </a>
 </div>
 
 <br>
