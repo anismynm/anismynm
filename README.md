@@ -43,13 +43,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252" />&nbsp
-</div>
-
 <br>
 
 <h3 align="center">📞 Contact 📞</h3>
