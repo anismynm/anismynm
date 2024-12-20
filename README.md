@@ -22,7 +22,7 @@
 <br>
 
 <!--내용 부분-->
-<h3 align="center">📚 Tech Skills 📚</h3>
+<h3 align="center">📚 I'm studying ... 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />&nbsp
